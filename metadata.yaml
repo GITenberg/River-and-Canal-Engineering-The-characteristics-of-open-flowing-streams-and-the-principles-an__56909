@@ -1,11 +1,16 @@
 _repo: River-and-Canal-Engineering-The-characteristics-of-open-flowing-streams-and-the-principles-an__56909
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56909-h/images/cover.jpg
 creator:
   author:
     agent_name: Bellasis, Edward Skelton
     gutenberg_agent_id: '49080'
     url: http://www.gutenberg.org/2009/agents/49080
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56909#River-and-Canal-Engineering-The-characteristics-of-open-flowing-streams-and-the-principles-an_
 gutenberg_issued: '2018-04-03'
 gutenberg_type: Text
 identifiers:
